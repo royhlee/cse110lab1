@@ -1,5 +1,5 @@
 Pictures
-![Image](really cool photo.jpg)
+![Image](reallycoolphoto.jpg)
 ![cool picture 2](https://cdn.pixabay.com/photo/2017/06/20/08/55/small-dog-2422326_960_720.jpg)
 
 Headings
