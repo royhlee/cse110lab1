@@ -17,20 +17,24 @@ Headings
 <sup>superscript</sup> <br />
 <ins>underline</ins> <br /> </p>
 
-<p>Quoting text <br />
->Quoted text <br /></p>
+Quoting text <br />
+>Quoted text <br />
+<br />
 
-<p>Quoting code <br />
-`Quoting code` <br /></p>
+Quoting code <br />
+`Quoting code` <br />
+<br />
 
-<p>External Links (Link to another webpage) <br />
-This is a link to Google [Google](https://www.google.com) <br /></p>
+External Links (Link to another webpage) <br />
+This is a link to Google [Google](https://www.google.com) <br />
+<br />
 
-<p>Section links (Link to a header in the same .md file) <br />
-Heading 1: [Heading 1](#heading-1) <br /></p>
+Section links (Link to a header in the same .md file) <br />
+Heading 1: [Heading 1](#heading-1) <br />
+<br />
 
-<p>Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.) <br />
-[Other file in repo](/hello.md)</p>
+Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.) <br />
+[Other file in repo](/hello.md)
 
 Ordered and Unordered Lists
 Ordered List
